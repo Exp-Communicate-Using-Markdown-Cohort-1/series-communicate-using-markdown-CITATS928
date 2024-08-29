@@ -15,5 +15,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] task 2
 - [x] task 3
 
-[x] test
-[ ] test2
